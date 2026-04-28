@@ -31,3 +31,4 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Retrospective action items may surface needs to update the [Roles RACI Matrix](octoacme-roles-raci-matrix.md) or [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md)

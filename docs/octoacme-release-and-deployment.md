@@ -16,11 +16,12 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Smoke tests prepared
 
 ## Deployment Checklist
+- [ ] Release readiness confirmed using [Release Readiness Check](octoacme-cross-functional-handoff-checklist.md) (QA sign-off, Security Champion sign-off)
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
 - [ ] Deploy to production (automated pipeline preferred)
-- [ ] Run post-deploy verifications
+- [ ] Run post-deploy verifications (see [Post-Release Verification checklist](octoacme-cross-functional-handoff-checklist.md))
 - [ ] Announce release to stakeholders and support
 
 ## Rollback & Incident Playbook

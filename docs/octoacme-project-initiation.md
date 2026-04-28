@@ -30,8 +30,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Proposed team / roles:
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
+- [ ] One-pager completed and reviewed by Product Lead (PdM)
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Core roles identified and documented in the one-pager: PM, PdM, UX Designer, QA Lead, Security Champion, Ops/DevOps (see [Roles and Personas](octoacme-roles-and-personas.md))
+- [ ] Security Champion consulted on any high-risk or compliance-sensitive areas
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

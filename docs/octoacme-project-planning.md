@@ -36,8 +36,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (facilitated by SM in coordination with PM)
 - [ ] Backlog prioritized and estimated
+- [ ] UX designs shared and UX acceptance criteria documented before stories move to "Ready" (see [Handoff Checklist — Design→Dev](octoacme-cross-functional-handoff-checklist.md))
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (owned by QA Lead)
+- [ ] Security threat model reviewed by Security Champion for high-risk features
+- [ ] Role responsibilities confirmed using [Roles RACI Matrix](octoacme-roles-raci-matrix.md)

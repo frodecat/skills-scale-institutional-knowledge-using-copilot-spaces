@@ -38,5 +38,6 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- Team-level -> PM -> Product Lead (PdM) -> Sponsor
+- For security incidents, follow the security incident runbook and notify Security Champion and Security on-call (see [Incident / Rollback Handoff](octoacme-cross-functional-handoff-checklist.md))
+- Refer to the [Roles RACI Matrix](octoacme-roles-raci-matrix.md) to confirm ownership of communication at each escalation level

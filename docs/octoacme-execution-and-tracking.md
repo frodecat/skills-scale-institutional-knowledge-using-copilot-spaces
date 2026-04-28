@@ -35,6 +35,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
+- [ ] CI configured for tests, lint, and security scanning (coordinated with Security Champion and Ops/DevOps)
+- [ ] Regular demos scheduled (facilitated by SM)
 - [ ] Risk register updated weekly
+- [ ] Design → Development handoffs follow the [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md)
+- [ ] Development → QA handoffs follow the [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md)

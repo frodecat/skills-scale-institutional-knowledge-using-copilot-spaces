@@ -24,6 +24,8 @@ Quality assurance is integrated throughout delivery via both engineering practic
 | [Release and Deployment](octoacme-release-and-deployment.md) | Pre-release checks, deployment steps, and rollback procedures |
 | [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Capturing learnings and driving actionable improvements |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Typical project roles and responsibilities |
+| [Roles RACI Matrix](octoacme-roles-raci-matrix.md) | RACI matrix mapping lifecycle activities to roles |
+| [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) | Checklists for design→dev, dev→QA, release readiness, and post-release verification |
 
 ---
 
